@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Test</string>
+    <string name="activition_history">Activition History</string>
+    <string name="see_all_exiting_discount_in_one_place">See all exiting discount in one place</string>
+    <string name="name">Name</string>
+    <string name="pay_now">Pay Now</string>
+</resources>
