@@ -68,9 +68,9 @@ public class ActivatedFragment extends Fragment implements ActItemClickListener 
         // hide key board
         hideKeyboard(getActivity());
         // Load All activation list on RecyclerView
-        activatedBinding.rcActivisionList.setLayoutManager(new LinearLayoutManager(getContext()));
+        activatedBinding.rvActivationList.setLayoutManager(new LinearLayoutManager(getContext()));
         activationAdapter = new ActivationAdapter(getContext(),activationList);
-        activatedBinding.rcActivisionList.setAdapter(activationAdapter);
+        activatedBinding.rvActivationList.setAdapter(activationAdapter);
         activationAdapter.setClickListener(this);
 
 

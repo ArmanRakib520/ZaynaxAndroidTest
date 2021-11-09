@@ -1,12 +1,10 @@
 <resources>
-    <string name="app_name">CodingTest</string>
+    <string name="app_name">AndroidTest</string>
     <string name="name">Name</string>
     <string name="number"> Phone Number</string>
     <string name="work">Work</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="list_of_activition">How does its work?</string>
-    <string name="coming_soon">Coming Soon...</string>
+    <string name="how_work">How does its work?</string>
+    <string name="coming_soon">Coming Soon…</string>
     <string name="search_here">Search Here</string>
     <string name="activation_history">Activation History</string>
     <string name="see_all_exiting_discounts_in_one_place">See all exiting discounts in one Place</string>
